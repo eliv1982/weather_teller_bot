@@ -1,8 +1,8 @@
 {
   "819086173": {
-    "city": "Санкт-Петербург (Россия)",
-    "lat": 59.938732,
-    "lon": 30.316229,
+    "city": "Лыткарино (Россия, Московская область)",
+    "lat": 55.5822477,
+    "lon": 37.9080217,
     "saved_locations": [
       {
         "id": "loc_1776835245306_1",
@@ -29,7 +29,7 @@
     "favorite_location_id": "loc_1776835245306_1",
     "notifications": {
       "enabled": true,
-      "interval_h": 2,
+      "interval_h": 1,
       "last_check_ts": 1776833403
     }
   }
