@@ -1,8 +1,8 @@
 {
   "819086173": {
-    "city": "Пекин (Китай, Beijing)",
-    "lat": 39.906217,
-    "lon": 116.3912757,
+    "city": "Санкт-Петербург (Россия)",
+    "lat": 59.938732,
+    "lon": 30.316229,
     "saved_locations": [
       {
         "id": "loc_1776835245306_1",
@@ -30,7 +30,7 @@
     "notifications": {
       "enabled": true,
       "interval_h": 1,
-      "last_check_ts": 1776839687
+      "last_check_ts": 1776843841
     }
   }
 }
